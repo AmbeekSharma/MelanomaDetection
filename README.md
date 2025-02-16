@@ -2,6 +2,22 @@
 >
 > This project uses a custom CNN to detect melanoma in images of skin lesions among 10 classes. The Gradio library is used to create a web app for the model prediction. The model predicts with an 87% accuracy.
 
+## Table of Contents
+
+- [Melanoma Detection using custom CNN](#melanoma-detection-using-custom-cnn)
+  - [Table of Contents](#table-of-contents)
+  - [General Information](#general-information)
+    - [Algorithms Used](#algorithms-used)
+    - [Dataset Information](#dataset-information)
+  - [Steps Involved](#steps-involved)
+  - [Results](#results)
+    - [Baseline Model](#baseline-model)
+    - [Augmented Model](#augmented-model)
+    - [Final Model](#final-model)
+- [Conclusion](#conclusion)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+- [License](#license)
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
